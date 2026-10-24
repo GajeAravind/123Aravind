@@ -29,11 +29,13 @@ A passionate Computer Science graduate focused on building performant web applic
 
 ### 🚀 Featured Projects
 
-* **[ASV Mall E-Commerce Application](https://github.com/GajeAravind)** — Full-featured e-commerce platform built using Java, Spring Boot, React, REST APIs, and MySQL.
-* **[Educational Blog Platform](https://github.com/GajeAravind)** — Lightweight blog platform prioritizing user experience, accessibility, and high performance.
-* **[Hotel Management System](https://github.com/GajeAravind)** — Application facilitating room bookings, guest management, and front-desk reception tasks.
+* **[ASV Mall E-Commerce Application](https://github.com/asvmall/customers-ecommerce)** — Full-featured e-commerce platform built using Java, Spring Boot, React, REST APIs, and MySQL.
+- **[Prime Hub Hotel](https://github.com/GajeAravind/primehubhotel)**  
+  Hotel management system built with React and Tailwind CSS for room bookings, guest management, and front-desk operations.
 * **[Java Practice Worksheets](https://github.com/GajeAravind)** — Collection of exercises covering OOP design, Collections framework, Exception Handling, and Java Streams.
-
+**[pmis java practice](https://github.com/GajeAravind/PMIS_JAVA_practice)** — Collection of exercises covering OOP design, Collections framework, Exception Handling, and Java Streams.
+  **[Hospital Management System](https://github.com/GajeAravind/hospital-project)** — Hospital management application designed to streamline patient registration, appointment scheduling, and hospital record management using Java, Spring Boot, React, REST APIs, and MySQL.
+  **[Nazdeek Forms](https://github.com/GajeAravind/nazdeek-forms)** — Web-based form development project focused on creating and managing user input forms, with an emphasis on data collection, form validation, and user-friendly interfaces.
 ---
 
 ### 🤝 Connect With Me
